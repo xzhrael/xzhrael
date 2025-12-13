@@ -9,18 +9,18 @@
 I'm on track for learning more about Web3, & Python.
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://github.com/hxndsky)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://github.com/xzhrael)
 
 ### Version Control & Tools 
-[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,git,figma,ae,ps)](https://github.com/hxndsky)
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,git,figma,ae,ps)](https://github.com/xzhrael)
 
 ### Connect with Me
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/hxndsky)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/xzhrael)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/WPpjQa4vhA)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hxndsky)
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=hxndsky&color=56BCD9" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=xzhrael&color=56BCD9" alt = "Profile Views"/>
 </p>
 </samp>
 </details>
