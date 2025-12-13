@@ -9,7 +9,7 @@
 I'm on track for learning more about Web3, & Python.
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://github.com/xzhrael)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,laravel,tailwind,bootstrap,mysql)](https://github.com/xzhrael)
 
 ### Version Control & Tools 
 [![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,git,figma,ae,ps)](https://github.com/xzhrael)
