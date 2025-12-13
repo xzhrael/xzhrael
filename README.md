@@ -16,7 +16,7 @@ I'm on track for learning more about Web3, & Python.
 
 ### Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/xzhrael)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/WPpjQa4vhA)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/348720546827075584)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hxndsky)
 
 <p align = "center">
